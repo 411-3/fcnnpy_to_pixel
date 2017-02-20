@@ -1,0 +1,2 @@
+
+We get N*M results from fcn in a image.Then we search max label for every pixel.  
